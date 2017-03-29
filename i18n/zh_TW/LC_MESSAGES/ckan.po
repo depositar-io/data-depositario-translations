@@ -5170,7 +5170,7 @@ msgstr "空間範圍關鍵字"
 #: ckanext/taijiang/plugin.py:105
 #: ckanext/taijiang/plugin.py:119
 msgid "Historical Material"
-msgstr "文獻書籍"
+msgstr "使用史料"
 
 #: ckanext/taijiang/validators.py:86
 msgid ", should be: "
