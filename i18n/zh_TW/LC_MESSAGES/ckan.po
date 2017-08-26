@@ -5066,16 +5066,13 @@ msgstr "經由 "
 msgid "Basic Information"
 msgstr "基本資訊"
 
-#: ckanext/taijiang/templates/scheming/package/snippets/additional_info.html:112
-#: ckanext/taijiang/templates/scheming/package/snippets/package_form.html:50
-#: ckanext/taijiang/templates/snippets/date_facet_slider.html:10
-msgid "Temporal Information"
-msgstr "時間資訊"
+#:
+msgid "Descriptive Information"
+msgstr "描述資訊"
 
-#: ckanext/taijiang/templates/scheming/package/snippets/additional_info.html:117
-#: ckanext/taijiang/templates/scheming/package/snippets/package_form.html:52
-msgid "Contact Information"
-msgstr "聯絡資訊"
+#:
+msgid "Management Information"
+msgstr "管理資訊"
 
 #: ckanext/taijiang/templates/scheming/package/snippets/additional_info.html:121
 #: ckanext/taijiang/templates/scheming/package/snippets/package_form.html:54
@@ -5089,22 +5086,41 @@ msgstr "空間範圍資訊"
 
 #: ckanext/taijiang/templates/scheming/package/snippets/additional_info.html:132
 #: ckanext/taijiang/templates/scheming/package/snippets/package_form.html:43
-msgid "Scanned Image"
-msgstr "掃描圖像"
-
-#: ckanext/taijiang/templates/scheming/package/snippets/additional_info.html:138
-#: ckanext/taijiang/templates/scheming/package/snippets/package_form.html:47
-msgid "Spatial Type"
-msgstr "空間類型"
+msgid "Pictures"
+msgstr "圖像"
 
 #: ckanext/taijiang/templates/scheming/package/snippets/additional_info.html:144
 #: ckanext/taijiang/templates/scheming/package/snippets/package_form.html:39
 msgid "Book"
 msgstr "文獻書籍"
 
-#: ckanext/taijiang/templates/scheming/package/snippets/package_form.html:50
-msgid "Time Period of Dataset"
-msgstr "資料內容時間"
+#:
+msgid "Temporal Information (Time Period of Dataset)"
+msgstr "時間資訊（資料內容時間）"
+
+#:
+msgid "License Details"
+msgstr "授權說明"
+
+#:
+msgid "Open for organization members only"
+msgstr "只對組織內成員公開"
+
+#:
+msgid "Use your account information to fill in maintainer's name and email"
+msgstr "使用您的帳號資訊填入維護者與電子郵件"
+
+#:
+msgid "Chinese"
+msgstr "中文"
+
+#:
+msgid "Time Period Shortcut"
+msgstr "時間區間捷徑"
+
+#:
+msgid "This shortcut provides some historical periods for filling temporal information of the dataset."
+msgstr "此捷徑提供部分歷史時期，供您快速填寫資料歷史年代。"
 
 #: ckanext/taijiang/templates/scheming/package/snippets/package_form.html:60
 msgid "Convert from Parcel Corner"
@@ -5113,10 +5129,6 @@ msgstr "自四至範圍轉換"
 #: ckanext/taijiang/templates/scheming/package/snippets/package_form.html:61
 msgid "Using a Map"
 msgstr "使用圖台新增"
-
-#: ckanext/taijiang/templates/scheming/package/snippets/package_form.html:65
-msgid "Miscellaneous"
-msgstr "其他資訊"
 
 #: ckanext/taijiang/templates/snippets/date_facet_slider.html:10
 msgid "Temporal Search"
@@ -5146,11 +5158,6 @@ msgstr "更新搜尋條件"
 #: ckanext/taijiang/plugin.py:91
 msgid "Data Type"
 msgstr "資料類型"
-
-#: ckanext/taijiang/plugin.py:79
-#: ckanext/taijiang/plugin.py:92
-msgid "Project"
-msgstr "所屬子計畫"
 
 #: ckanext/taijiang/plugin.py:81
 #: ckanext/taijiang/plugin.py:94
