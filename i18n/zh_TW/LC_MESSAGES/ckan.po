@@ -5044,6 +5044,10 @@ msgstr "範例檔案"
 msgid "Select \"File\" → \"Download as\" → \"Microsoft Excel (.xlsx)\" in the opened window."
 msgstr "並在開啟的 Google 試算表中，依序選擇「檔案」→ 「下載格式」→ 「Microsoft Excel (.xlsx)」。"
 
+#:
+msgid "Service temporarily unavailable due to recent metadata changes. Please contact us via email: data.contact AT depositar.io if you still need this service."
+msgstr "因後設資料變動，暫時停止大量上傳服務。若您仍有需求，請透過電子郵件信箱聯絡我們：data.contact AT depositar.io。"
+
 #: ckanext/taijiang/templates/home/snippets/news.html:7
 msgid "No latest news."
 msgstr "沒有最新消息。"
