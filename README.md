@@ -1,5 +1,7 @@
 # Ckan - custom translations
 
+**Notice: This repo is deprecated.**
+
 This project contains custom string translations for Ckan,
 along with tools for maintaining translation merging etc.
 
